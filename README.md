@@ -1,11 +1,6 @@
 Hello, I'm Scott 👋
 
-I'm a third year software engineering student at UVic, a full stack developer, and team lead on the [Study Space Finder](https://github.com/VikeLabs/StudySpaceFinder) project.
-
-## Projects
-StudySpaceFinder is a website that shows empty classrooms on the UVic campus. We took UVic's course registration data, sorted it by classroom, and then created our own api with it. The project is in the late stage of development, but a broken version of the website is hosted [here](https://study-space-finder.vercel.app)
-
-*more coming soon*
+I'm a software engineering student at UVic, full stack developer, and team lead on the [Study Space Finder](https://github.com/VikeLabs/StudySpaceFinder) project.
 
 ## GitHub Stats
 <p align="left">
